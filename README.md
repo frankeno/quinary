@@ -1,0 +1,2 @@
+# quinary
+Quinary game data
